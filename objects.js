@@ -12,3 +12,4 @@ let person = {
 person.sayHi()
 console.log(person)
 console.log(person["name"])
+console.log("Hello")
